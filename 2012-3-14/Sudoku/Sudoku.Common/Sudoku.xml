@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sudoku>
+  <default >
+    <nodename>default</nodename>
+    <instancename>default</instancename>
+    <solutionname>default</solutionname>
+  </default>
+  <node  name="default">
+    <instance name="default">
+      <assembly>Sudoku.CodeMonk.dll</assembly>
+      <classname>Sudoku.CodeMonk.Sudoku</classname>
+    </instance>
+    <solution name="default">
+      <assembly>a.dll</assembly>
+      <classname>s.s</classname>
+    </solution>
+  </node>
+</sudoku>
